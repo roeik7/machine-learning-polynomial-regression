@@ -1,2 +1,3 @@
 # machine-learning-polynomial-regression
-this program gets data set that represent salaries for different roles and make a polynomnial model to predict salarie by giving a years experiment.
+this program gets data set that represent salaries for different roles in company.
+the program makes a polynomnial model and linear model to highlights the priority of making polynomial regression over linear regression.  at the end the program predict salary by giving a years of experiment.
